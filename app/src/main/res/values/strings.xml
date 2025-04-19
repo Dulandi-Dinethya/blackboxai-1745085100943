@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personal Finance Tracker</string>
+    <string name="summary_transactions">Summary of Transactions</string>
+    <string name="transaction_list_placeholder">Transaction list will appear here</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="set_view_budget">Set/View Budget</string>
+    <string name="category_summary">Category Summary</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_monthly_budget">Set Monthly Budget</string>
+    <string name="enter_budget_amount">Enter budget amount</string>
+    <string name="save_budget">Save Budget</string>
+    <string name="category_wise_spending_summary">Category-wise Spending Summary</string>
+    <string name="settings">Settings</string>
+    <string name="backup_and_restore">Backup and Restore</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dont_have_account">Don't have an account? Sign up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_message">Welcome to Personal Finance Tracker</string>
+    <string name="track_income_expenses">Track your income, expenses, and savings easily.</string>
+    <string name="categorize_expenses">Easily categorize your expenses</string>
+    <string name="organize_spending">Organize your spending by categories like Food, Transport, Bills, and more.</string>
+    <string name="set_budgets_alerts">Set budgets and get alerts</string>
+    <string name="budget_notifications">Keep track of your monthly budget and receive notifications when you approach limits.</string>
+</resources>
